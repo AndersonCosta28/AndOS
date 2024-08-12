@@ -1,0 +1,16 @@
+[submodule "shared"]
+	path = AndOS.Shared
+	url = https://github.com/AndersonCosta28/AndOS.Shared
+	branch = master
+[submodule "core"]
+	path = AndOS.Core
+	url = https://github.com/AndersonCosta28/AndOS.Core
+	branch = master
+[submodule "back"]
+	path = AndOS.Back-end
+	url = https://github.com/AndersonCosta28/AndOS.Back-end
+	branch = master
+[submodule "front"]
+	path = AndOS.Front-end
+	url = https://github.com/AndersonCosta28/AndOS.Front-end
+	branch = master
